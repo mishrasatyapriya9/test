@@ -1,3 +1,2 @@
 tht;
-indexedDB;
 abgdsry;
